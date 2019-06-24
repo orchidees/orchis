@@ -1,0 +1,2381 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "orchestra.presets">
+	<slot number = "1">
+		<patcher name = "orchestra.group.pat[1]">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "ASax" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "BClBb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "BFl" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "BTb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "BTbn" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "Bn" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "Cb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "CbClBb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "CbFl" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "CbFl" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "ClBb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "ClEb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "EH" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "Fl" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "Hn" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "Ob" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+		<patcher name = "orchestra.group.pat">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "Picc" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "TTbn" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "TpC" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "Va" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "Vc" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "Vn" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<patcher name = "orchestra.group.pat[1]">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+		<patcher name = "orchestra.group.pat">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+	</slot>
+	<slot number = "3">
+		<patcher name = "orchestra.group.pat[1]">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+		<patcher name = "orchestra.group.pat">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+	</slot>
+	<slot number = "4">
+		<patcher name = "orchestra.group.pat[1]">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+		<patcher name = "orchestra.group.pat">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+	</slot>
+	<slot number = "5">
+		<patcher name = "orchestra.group.pat[1]">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+		<patcher name = "orchestra.group.pat">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+	</slot>
+	<slot number = "6">
+		<patcher name = "orchestra.group.pat[1]">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+		<patcher name = "orchestra.group.pat">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+	</slot>
+	<slot number = "7">
+		<patcher name = "orchestra.group.pat[1]">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+		<patcher name = "orchestra.group.pat">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+	</slot>
+	<slot number = "8">
+		<patcher name = "orchestra.group.pat[1]">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+		<patcher name = "orchestra.group.pat">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+	</slot>
+	<slot number = "9">
+		<patcher name = "orchestra.group.pat[1]">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+		<patcher name = "orchestra.group.pat">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+	</slot>
+	<slot number = "10">
+		<patcher name = "orchestra.group.pat[1]">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+		<patcher name = "orchestra.group.pat">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+	</slot>
+	<slot number = "11">
+		<patcher name = "orchestra.group.pat[1]">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "ASax" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "BClBb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "BFl" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "BTb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "BTbn" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "Bn" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "Cb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "CbClBb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "CbFl" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "CbFl" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "ClBb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "ClEb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "EH" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "Fl" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "Hn" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "Ob" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+		<patcher name = "orchestra.group.pat">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "Picc" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "TTbn" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "TpC" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "Va" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "Vc" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "Vn" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+	</slot>
+	<slot number = "12">
+		<patcher name = "orchestra.group.pat[1]">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "ASax" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "BClBb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "BFl" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "BTb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "BTbn" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "Bn" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "Cb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "CbClBb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "CbFl" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "CbFl" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "ClBb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "ClEb" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "EH" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "Fl" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "Hn" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "Ob" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+		<patcher name = "orchestra.group.pat">
+			<patcher name = "orchestra.slot[15]">
+				<pattr name = "slot1" value = "Picc" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[14]">
+				<pattr name = "slot1" value = "TTbn" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[13]">
+				<pattr name = "slot1" value = "TpC" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[12]">
+				<pattr name = "slot1" value = "Va" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[11]">
+				<pattr name = "slot1" value = "Vc" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[10]">
+				<pattr name = "slot1" value = "Vn" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[9]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[8]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[7]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[6]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[5]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[4]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[3]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[2]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot[1]">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+			<patcher name = "orchestra.slot">
+				<pattr name = "slot1" value = "&lt;&gt;" />
+				<pattr name = "slot2" value = "&lt;&gt;" />
+				<pattr name = "slot3" value = "&lt;&gt;" />
+				<pattr name = "slot4" value = "&lt;&gt;" />
+			</patcher>
+		</patcher>
+	</slot>
+</pattrstorage>
+
